@@ -3,7 +3,6 @@ package com.moski.testapp
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.os.Parcel
 import android.widget.Button
 import android.widget.EditText
 import android.widget.LinearLayout
@@ -67,7 +66,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun createButton(text: String): Button {
 
-        val constraintLayout = findViewById<ConstraintLayout>(R.id.constraintLayout) as ConstraintLayout
+        val constraintLayout = findViewById<ConstraintLayout>(R.id.gameBackground) as ConstraintLayout
         val newButton = Button(this)
         newButton.layoutParams = ConstraintLayout.LayoutParams(ConstraintLayout.LayoutParams.WRAP_CONTENT, ConstraintLayout.LayoutParams.WRAP_CONTENT)
         newButton.text = text
