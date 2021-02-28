@@ -1,5 +1,7 @@
 package com.moski.testapp
 
+import android.content.pm.ActivityInfo
+import android.graphics.Color
 import android.os.Bundle
 import android.widget.Button
 import android.widget.TextView
@@ -25,6 +27,7 @@ class Main2Activity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         //anti-barre de merde
         supportActionBar?.hide()
+        this.requestedOrientation = ActivityInfo.SCREEN_ORIENTATION_SENSOR_LANDSCAPE
 
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main2)
@@ -45,6 +48,10 @@ class Main2Activity : AppCompatActivity() {
         Next_Question.setOnClickListener{
             if(temp_plr_list.size < 3) temp_plr_list = player_list
             temp_plr_list = New_Question(Question_Text, temp_plr_list, question_list, player_list.size)
+
+            //var relativeLayout = findViewById<>(R.id.gameBackground).also {
+             //   it.setBackgroundColor(Color.YELLOW)
+           // }
         }
 
 
