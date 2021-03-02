@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">ABWAR</string>
     <string-array name="Questions">
-        <item>Trouvez chacun votre nom d\'acteur porno, le meilleur nom gagne un dessert ?</item>
+        <item>Trouvez chacun votre nom d\'acteur porno, le meilleur nom gagne un dessert !</item>
         <item>Celui qui roule le moins bien des clopes boit %gog (les non-fumeurs ne comptent pas)</item>
         <item>%plr  Prends une feuille et un stylo, il doit dessiner quelqu\'un ici et si  %plr arrive à deviner, l\'artiste peut distribuer %gog gorgées, sinon il les boit</item>
         <item>Echange ton verre avec le joueur de droite et buvez %gog gorgée</item>
@@ -9,7 +9,7 @@
         <item>Le premier qui dit \"Ratatataaaaaaaa\" boit %gog gorgées</item>
         <item>Celui qui a finit son verre en dernier distribue %gog gorgées</item>
         <item>Si tu bois l\'alcool que tu as ramener tu distribue %gog , si non tu bois %gog</item>
-        <item>Si une personne bois un soft, la personne a sa gauche cul sec</item>
+        <item>Si une personne bois un soft, la personne à sa gauche cul sec</item>
         <item>La premier arriver remplit le verre du dernier arriver avec l\'alcool ou les alcools de sont choix</item>
         <item>Le premier à se coucher en soirée boit %gog gorgées, votez tous en même temps</item>
         <item>Donnez tous des noms alternatifs aux objets qui vous entourent, %plr commence, le premier qui trouve pas ou prend l\'objet d\'un autre boit %gog gorgées</item>
@@ -23,9 +23,9 @@
         <item>les joueurs désignent un autre joueur qui devra enlever un vêtement</item>
         <item>%plr et %plr Échangent leurs vêtements et inversent également de rôle</item>
         <item>Ceux qui boivent de la Jager trinquent et boivent 1 gorgée</item>
-        <item>Si t\'es réorienté tu bois trois cheh</item>
+        <item>Si t\'es réorienté tu bois %gog cheh</item>
         <item>%plr est le dieu de la boisson, donne l\'alcool de ton choix a %plr </item>
-        <item>Les gens qui font  1m83 boivent %gog gorgée</item>
+        <item>Les gens qui font  1m83+ boivent %gog gorgée</item>
         <item>Les personnes ayant été sur leur pc ce jour boivent %gog</item>
         <item>Jeu de mots, %plr et %plr nous lâchent leur meilleur jeu de mot avec un objet de la pièce, tout le monde vote, le gagnant distribue 3</item>
         <item>Blind test %plr gère la musique, le premier qui devine distribue %gog</item>
@@ -35,20 +35,21 @@
         <item> %plr dessine ce que tu veux sur une partie du corps de ton choix sur %plr, %gog gorgées en cas de refus</item>
         <item>Mange tes morts, %plr bois 5</item>
         <item>%plr nous fait son meilleur twerk</item>
-        <item>Met une photo face app en changement de sexe en story Snap ou insta ou bois un cul sec fait par la personne a ta droite</item>
-        <item>%plr complète la phrase : ouvrir ... C\'est pas si mal. Distribue 3 si c\'est drôle, 2 si c\'est nulz</item>
         <item>Si t\'as un Y dans ton nom bois %gog</item>
-        <item>concerne tout les joueurs, si vous avez une kro dans la main, vous devez la donnez a simon qui devra toutes les finirent. (max 6 kro)</item>
         <item>tout ceu qui hont dêja niquer naulwaine bouave %gog</item>
         <item>Met toi un ouvre lettre en forme de poisson dans l\'anus ou boit genre mille gorgées</item>
         <item>Si t\'as déjà pleuré devant un film/série (animes compte) bois %gog</item>
         <item>Si t\'as déjà bossé, distribue %gog</item>
         <item>Raconte une anecdote sur ton voisin de droite, si tu en a pas c\'est bien dommage mais tu bois %gog, ça vous fera une petite anecdote</item>
         <item>Ceux qui aiment les chips vinaigre, mettez vous d\'accord pour donner %gog</item>
-        <item>Tout le monde vote pour le plus grand rageux aux jeux vidéos, le 1er finit le verre du 2e</item>
+        <item>Tout le monde vote pour le plus grand rageux aux jeux vidéos, ce boloss devra boire %gog</item>
         <item>A tour de rôle, chacun énonce le nom d\'une bière, celui qui n\'a plus d\'idée boit %gog</item>
         <item>les objets utile pour décapsuler, celui qui se trompe ou répète bois %gog</item>
         <item>trouve un objet insolite pour décaspuler ta bière, si tu arrive pas avec cet objet tu bois %gog</item>
         <item>%plr, %plr et %plr, désignez chacun une biere, ensuite votez tous sur la quelle est la meilleure. Les majoritaires distribuez %gog gorgée chacun</item>
+        <item>Pierre-feuille-ciseaux entre %plr et %plr en une manche, celui qui perd boit %gog</item>
+        <item>Les développeurs du jeu peuvent distribuer %gog chacuns</item>
+        <item>Linux c'est de la merde, les connards qui l'ont boivent %gog</item>
+
     </string-array>
 </resources>
